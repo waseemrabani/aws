@@ -63,6 +63,8 @@ cd aws/lambda
 chmod +x cleanup_lambda_layers.sh 
 chmod +x cleanup_lambda_functions.sh
 
+
+#Run these scripts
 ./cleanup_lambda_layers.sh 
 ./cleanup_lambda_functions.sh
 ```
